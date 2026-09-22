@@ -35,6 +35,6 @@ Currently pursuing the **IBM AI Developer Professional Certificate** and enginee
 ---
 
 ### 📫 Connect With Me
-
+- **Instagram:** [instagram.com/harshthakran25](https://www.instagram.com/harshthakran25)
 - **LinkedIn:** [linkedin.com/in/harshthakran25](https://linkedin.com/in/harshthakran25)
 - **Email:** [harsh.rj.025@gmail.com](mailto:harsh.rj.025@gmail.com)
