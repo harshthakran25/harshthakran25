@@ -17,7 +17,7 @@ Currently pursuing the **IBM AI Developer Professional Certificate** and enginee
 
 ### 🚀 Featured Projects
 
-#### 🏠 [Home Rent Management System](https://github.com/your-username/rent-management-system)
+#### 🏠 [Home Rent Management System](https://github.com/harshthakran25/home-rent-management-system)
 *A modular backend engine and relational database for property leasing and billing workflows.*
 - **Tech Stack:** Python, MySQL, `mysql-connector`, OOP
 - Designed a normalized 3NF relational schema enforcing strict referential integrity across properties, tenants, and leases.
